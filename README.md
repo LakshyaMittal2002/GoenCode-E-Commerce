@@ -1,3 +1,23 @@
+# GoenCode E-Commerce Website
+
+Welcome to the GoenCode E-Commerce Website, a personal project developed by Lakshya Mittal. This advanced product-based e-commerce website is designed to offer users a seamless and immersive shopping experience. This includes a well-organized product catalog, a user-friendly shopping cart system, and integrated payment processing for secure transactions.
+
+## Features
+
+- Product Catalog: Explore a wide range of products with a well-organized catalog.
+- Shopping Cart System: Add products to your cart and manage your selections effortlessly.
+- Integrated Payment Processing: Securely complete your transactions using Stripe payment processing.
+- Responsive Design: Enjoy a consistent and user-friendly experience across various devices.
+
+## Tech Stack
+
+- ReactJs:** A JavaScript library for building user interfaces.
+- CSS: Cascading Style Sheets for styling the website.
+- Strapi: A headless CMS (Content Management System) for managing content and data.
+- Stripe: Payment processing for secure and reliable transactions.
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
