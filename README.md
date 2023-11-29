@@ -11,7 +11,7 @@ Welcome to the GoenCode E-Commerce Website, a personal project developed by Laks
 
 ## Tech Stack
 
-- ReactJs:** A JavaScript library for building user interfaces.
+- ReactJs: A JavaScript library for building user interfaces.
 - CSS: Cascading Style Sheets for styling the website.
 - Strapi: A headless CMS (Content Management System) for managing content and data.
 - Stripe: Payment processing for secure and reliable transactions.
